@@ -4,3 +4,4 @@ resourcegroup-Deployement = {
     location = "west US2git"
   }
 }
+
