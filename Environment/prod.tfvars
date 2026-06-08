@@ -5,4 +5,3 @@ resourcegroup-Deployement = {
   }
 }
 
-
